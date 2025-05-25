@@ -1,7 +1,7 @@
 
 # Remitly Trust Platform API (Personal Project)
 
-This project was inspired by my passion for building secure, reliable systems that support people across borders — just like Remitly’s mission. I created this backend API to simulate a core component of a Trust & Identity platform: verifying user identities, assigning trust scores, and flagging potential fraud — all in real-time.
+This project was inspired by my passion for building secure, reliable systems that support people across borders just like Remitly’s mission. I created this backend API to simulate a core component of a Trust & Identity platform: verifying user identities, assigning trust scores, and flagging potential fraud all in real-time.
 
 As a backend-focused engineer, I wanted to demonstrate that I understand not just how to write APIs, but how to structure them with scalability, compliance, and security in mind. I also wanted to show that I can take initiative, break down a real-world system, and rebuild its core logic independently.
 
@@ -95,8 +95,6 @@ source env/Scripts/activate  # Or use source env/bin/activate on Linux/Mac
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
-
-Visit: `http://127.0.0.1:8000/docs` to test locally.
 
 ---
 
